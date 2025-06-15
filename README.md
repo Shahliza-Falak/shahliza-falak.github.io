@@ -15,7 +15,7 @@ Thesis: “Pneumonia Detection using Deep Learning"
 
 ### 💻 Project Experience
 Project: Pneumonia Detection using Deep Learning
-- Applied YOLOv8 and ResNet-50 for X-ray image classification
+- Applied YOLOv8, Yolov11 and ResNet-50 for X-ray image classification
 - Integrated a trained model into a Flask web application for inference and user interaction
 
 Project: Web Applications
@@ -23,14 +23,26 @@ Project: Web Applications
 - Demonstrate responsive UI/UX design
 
 Project: Detmonia
-- AI tool for disease detection (supervised learning) 
+- Developed an AI-powered tool for disease detection using supervised learning techniques
+
+Project: Machine Learning (CNN Model Evaluation)  
+- Tested CNN models for medical image classification tasks
+- Conducted experiments with varying hyperparameters to assess model robustness
+- Evaluated and interpreted results to derive insights on model behavior, overfitting, and generalization performance
+### 🏆 Certifications  
+- Certified HTML & CSS Training | Open Weaver (2023)
+- Certified completing online course | Cloud Foundations (2024)
+- Certified in Resilience | Nestlé E-learning (Online course) (2025)
 
 ### 📚 Publications 
 Technical Articles on medium: (written out of personal interest)  
 [Artificial Intelligence (AI):](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
 [What is Turing Test?:](https://medium.com/@shahlizauddin/what-is-turing-test-bb704b20d756)  
-[Enigma Machine: https:](//medium.com/@shahlizauddin/enigma-machine-f9c22703a322)
+[Enigma Machine:](https://medium.com/@shahlizauddin/enigma-machine-f9c22703a322)
+[Alan Turing:](https://medium.com/@shahlizauddin/alan-turing-84559809286a)
 
-
+<p align="center">
+  <sub> Shahliza Falak</sub>
+</p>
 
 
