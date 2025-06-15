@@ -26,10 +26,10 @@ Project: Detmonia
 - AI tool for disease detection (supervised learning) 
 
 ### 📚 Publications 
-Technical Articles on medium: (written out of personal interest)
-- Artificial Intelligence (AI): https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d
-- What is Turing Test?: https://medium.com/@shahlizauddin/what-is-turing-test-bb704b20d756
-- Enigma Machine: https://medium.com/@shahlizauddin/enigma-machine-f9c22703a322
+Technical Articles on medium: (written out of personal interest)  
+[Artificial Intelligence (AI):](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
+[What is Turing Test?:](https://medium.com/@shahlizauddin/what-is-turing-test-bb704b20d756)  
+[Enigma Machine: https:](//medium.com/@shahlizauddin/enigma-machine-f9c22703a322)
 
 
 
