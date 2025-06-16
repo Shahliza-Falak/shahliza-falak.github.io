@@ -29,10 +29,11 @@ Project: Machine Learning (CNN Model Evaluation)
 - Tested CNN models for medical image classification tasks
 - Conducted experiments with varying hyperparameters to assess model robustness
 - Evaluated and interpreted results to derive insights on model behavior, overfitting, and generalization performance
+- 
 ### 🏆 Certifications  
 - Certified HTML & CSS Training | Open Weaver (2023)
 - Certified completing online course | Cloud Foundations (2024)
-- Certified in Resilience | Nestlé E-learning (Online course) (2025)
+- Certified in Resilience | Nestlé E-learning (online course) (2025)
 
 ### 📚 Publications 
 Technical Articles on medium: (written out of personal interest)  
