@@ -1,6 +1,6 @@
 # Software Engineer
 Hi, I'm a software engineer with a deep interest in computer vision and medical imaging, please feel free to connect with me anytime!  
-[📧](mailto:shahlizauddin@gmail.com)  [🔗](http://www.linkedin.com/in/shahliza-falak)   [📝](https://medium.com/@shahlizauddin)   
+[📧](mailto:shahlizauddin@gmail.com)&nbsp;&nbsp;&nbsp;[🔗](http://www.linkedin.com/in/shahliza-falak)&nbsp;&nbsp;&nbsp;[📝](https://medium.com/@shahlizauddin)   
 
 ### 🔎 Current Research Focus  
 My current research involves:
@@ -46,7 +46,6 @@ Technical Articles on medium: (written out of personal interest)
 <br>
 <br>  
 <p align="center">
-  <sub><span style="color:#6c757d"> -Shahliza Falak- </span></sub>
+  <sub><strong><i> -Shahliza Falak- </i></strong></sub>
 </p>
-
 
