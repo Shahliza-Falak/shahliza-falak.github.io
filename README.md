@@ -24,6 +24,7 @@ Project: Web Applications
 
 Project: Detmonia
 - Developed an AI-powered tool for disease detection using supervised learning techniques
+- Focused on medical image-based diagnosis  
 
 Project: Machine Learning (CNN Model Evaluation)  
 - Tested CNN models for medical image classification tasks
@@ -37,13 +38,15 @@ Project: Machine Learning (CNN Model Evaluation)
 
 ### 📚 Publications 
 Technical Articles on medium: (written out of personal interest)  
-[Artificial Intelligence (AI):](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
-[What is Turing Test?:](https://medium.com/@shahlizauddin/what-is-turing-test-bb704b20d756)  
-[Enigma Machine:](https://medium.com/@shahlizauddin/enigma-machine-f9c22703a322)  
-[Alan Turing:](https://medium.com/@shahlizauddin/alan-turing-84559809286a)
-
+[Artificial Intelligence (AI)](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
+[What is Turing Test?](https://medium.com/@shahlizauddin/what-is-turing-test-bb704b20d756)  
+[Enigma Machine](https://medium.com/@shahlizauddin/enigma-machine-f9c22703a322)  
+[Alan Turing](https://medium.com/@shahlizauddin/alan-turing-84559809286a)
+<br>
+<br>
+<br>  
 <p align="center">
-  <sub> Shahliza Falak</sub>
+  <sub><span style="color:#6c757d"> -Shahliza Falak- </span></sub>
 </p>
 
 
