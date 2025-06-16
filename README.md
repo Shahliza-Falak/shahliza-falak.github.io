@@ -31,9 +31,9 @@ Project: Machine Learning (CNN Model Evaluation)
 - Evaluated and interpreted results to derive insights on model behavior, overfitting, and generalization performance
 
 ### 🏆 Certifications
-Certified HTML & CSS Training-Open Weaver (2023) 
-Certified completing online course-Cloud Foundations (2024)
-Certified in Resilience-Nestlé E-learning (Online course) (2025)
+- Certified HTML & CSS Training-Open Weaver (2023) 
+- Certified completing online course-Cloud Foundations (2024)
+- Certified in Resilience-Nestlé E-learning (Online course) (2025)
 
 ### 📚 Publications 
 Technical Articles on medium: (written out of personal interest)  
