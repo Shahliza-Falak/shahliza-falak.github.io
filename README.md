@@ -46,6 +46,6 @@ Technical Articles on medium: (written out of personal interest)
 <br>
 <br>  
 <p align="center">
-  <sub><strong><i> -Shahliza Falak- </i></strong></sub>
+  <sub><i> -Shahliza Falak- </i></sub>
 </p>
 
