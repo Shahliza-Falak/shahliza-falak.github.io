@@ -35,7 +35,7 @@ Project: Machine Learning (CNN Model Evaluation)
 - Certificate in HTML & CSS Training – Open Weaver (2023)  
 - Certificate in Cloud Foundations – Online Course (2024)  
 - Certificate in Essentials of AI Learning Frameworks & Advanced Models – UniAthena, CIQ (UK) (2025)  
-- Certificate in Resilience** – Nestlé E-learning Program (2025)  
+- Certificate in Resilience – Nestlé E-learning Program (2025)  
 - Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
 
 
