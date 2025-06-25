@@ -6,7 +6,7 @@ Hi, I'm a software engineer with a deep interest in computer vision and medical 
 My current research involves:
 - Deep Learning for medical image analysis
 - Real-time object detection
-- Dataset annotation & model training
+- Computer Vision
 
 ### 🎓 Education
 **[B.S. in Software Engineering - Ziauddin University (ZUFESTM)](https://zu.edu.pk/faculty-of-engineering-science-technology-management/)**  
@@ -32,11 +32,11 @@ Project: Machine Learning (CNN Model Evaluation)
 - Evaluated and interpreted results to derive insights on model behavior, overfitting, and generalization performance
 
 ### 🏆 Certifications
-- Certificate in **HTML & CSS Training** – Open Weaver (2023)  
-- Certificate in **Cloud Foundations** – Online Course (2024)  
-- Certificate in **Essentials of AI Learning Frameworks & Advanced Models** – UniAthena, CIQ (UK) (2025)  
-- Certificate in **Resilience** – Nestlé E-learning Program (2025)  
-- Certificate in **Basics of Machine Learning** – UniAthena, CIQ (UK) (2025)
+- Certificate in HTML & CSS Training – Open Weaver (2023)  
+- Certificate in Cloud Foundations – Online Course (2024)  
+- Certificate in Essentials of AI Learning Frameworks & Advanced Models – UniAthena, CIQ (UK) (2025)  
+- Certificate in Resilience** – Nestlé E-learning Program (2025)  
+- Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
 
 
 
