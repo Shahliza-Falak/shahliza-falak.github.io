@@ -13,6 +13,11 @@ My current research involves:
 Thesis: “Pneumonia Detection using Deep Learning"  
 📍 Karachi, Pakistan
 
+### 💼 Work Experience
+Ziauddin School & College
+Lab Engineer (Aug - Present)
+📍 Karachi, Pakistan
+
 ### 💻 Project Experience
 Project: Pneumonia Detection using Deep Learning
 - Applied YOLOv8, Yolov11 and ResNet-50 for X-ray image classification
