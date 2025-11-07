@@ -15,7 +15,7 @@ Thesis: “Pneumonia Detection using Deep Learning"
 
 ### 💼 Work Experience
 Ziauddin School & College  
-Lab Engineer                          (Aug - Present)  
+Lab Engineer - Secondary Lab Teacher                          (Aug - Present)  
 📍 Karachi, Pakistan
 
 ### 💻 Project Experience
