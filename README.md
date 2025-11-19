@@ -36,14 +36,23 @@ Project: Machine Learning (CNN Model Evaluation)
 - Conducted experiments with varying hyperparameters to assess model robustness
 - Evaluated and interpreted results to derive insights on model behavior, overfitting, and generalization performance
 
+### 🛠 Workshops
+- Active member - seminars on emerging technologies (2023-2024)
+- Attended workshops on business analysis, and launching startups (2024)
+- “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” – Ziauddin University Examination Board (2025)
+
 ### 🏆 Certifications
 - Certificate in HTML & CSS Training – Open Weaver (2023)  
 - Certificate in Cloud Foundations – Online Course (2024)  
 - Certificate in Essentials of AI Learning Frameworks & Advanced Models – UniAthena, CIQ (UK) (2025)  
 - Certificate in Resilience – Nestlé E-learning Program (2025)  
 - Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
+- Certificate of Participation – “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” Workshop (Ziauddin University Examination Board, 2025)
 
-
+### 🌐 Languages
+- English - Professional Proficiency
+- Urdu - Native
+- Korean - Beginner (A1)
 
 ### 📚 Publications 
 Technical Articles on medium: (written out of personal interest)  
