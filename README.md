@@ -15,7 +15,7 @@ Thesis: “Pneumonia Detection using Deep Learning"
 
 ### 💼 Work Experience
 Ziauddin School & College  
-Lab Engineer - Secondary Lab Teacher                          (Aug - Present)  
+Lab In-Charge - Secondary Computer Teacher                          (Aug - Present)  
 📍 Karachi, Pakistan
 
 ### 💻 Project Experience
@@ -48,9 +48,11 @@ Project: Machine Learning (CNN Model Evaluation)
 - Certificate in Resilience – Nestlé E-learning Program (2025)  
 - Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
 - Certificate of Participation – “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” Workshop (Ziauddin University Examination Board, 2025)
+- Certificate of Completion - First Step Korean course, offered by **Yonsei University** through **Coursera** (2025)
+- **IELTS Certificate** - Overall band 6.0 (Academic) – IDP Education, (2026)
 
 ### 🌐 Languages
-- English - Professional Proficiency
+- English - B2 Level (IELTS 6.0)  
 - Urdu - Native
 - Korean - Beginner (A1)
 
