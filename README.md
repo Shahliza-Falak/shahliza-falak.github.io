@@ -39,7 +39,8 @@ Project: Machine Learning (CNN Model Evaluation)
 ### 🛠 Workshops
 - Active member - seminars on emerging technologies (2023-2024)
 - Attended workshops on business analysis, and launching startups (2024)
-- “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” – Ziauddin University Examination Board (2025)
+- Certificate of Participation – “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” Workshop (Ziauddin University Examination Board, 2025)
+- Certificate of Achievement - "Fundamentals of Malware Analysis" - Mesh Sync (2026)
 
 ### 🏆 Certifications
 - Certificate in HTML & CSS Training – Open Weaver (2023)  
@@ -47,9 +48,11 @@ Project: Machine Learning (CNN Model Evaluation)
 - Certificate in Essentials of AI Learning Frameworks & Advanced Models – UniAthena, CIQ (UK) (2025)  
 - Certificate in Resilience – Nestlé E-learning Program (2025)  
 - Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
-- Certificate of Participation – “SSC & HSSC Advance Computer Science: From Syllabus to Assessment” Workshop (Ziauddin University Examination Board, 2025)
 - Certificate of Completion - First Step Korean course, offered by Yonsei University through Coursera (2025)
 - IELTS Certificate - Overall band 6.0 (Academic) – IDP Education, (2026)
+
+### 🏆 Volunteer Experience
+- Volunteer, Grand Beach Cleanup — Hammad Foundation (2026)
 
 ### 🌐 Languages
 - English - B2 Level (IELTS 6.0)  
