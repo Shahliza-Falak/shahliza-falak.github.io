@@ -51,7 +51,7 @@ Project: Machine Learning (CNN Model Evaluation)
 - Certificate of Completion - First Step Korean course, offered by Yonsei University through Coursera (2025)
 - IELTS Certificate - Overall band 6.0 (Academic) – IDP Education, (2026)
 
-### 🏆 Volunteer Experience
+### 🤝 Volunteer Experience
 - Volunteer, Grand Beach Cleanup — Hammad Foundation (2026)
 
 ### 🌐 Languages
