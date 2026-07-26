@@ -69,17 +69,21 @@ Project: WordPress WooCommerce Data Migration
 - Sports day - Ziauddin School & College (2026)
   
 ### 🤝 Volunteer Experience
-- Volunteer, Grand Beach Cleanup — Hammad Foundation (2026)
+- Volunteer, Grand Beach Cleanup — Hammad Foundation (2025)
 - Volunteer, Plantation Drive — Hammad Foundation (2026)
   
 ### 🌐 Languages
-- English - B2 Level (IELTS 6.0)  
 - Urdu - Native
+- English - B2 Level (IELTS 6.0)
+     - IELTS Certificate - Overall band 6.0 (Academic) – IDP Education (2026)
 - Korean - Beginner (A1)
-
+     - Certificate of Completion - First Step Korean course, offered by Yonsei University through Coursera (2025)
+     - Korean Language Course - National University of Modern Languages (2026)
+     - Korean Course 1A - King Sejong Institute (2026)
+ 
 ### 📚 Publications 
 [Optimizing Pneumonia Diagnosis: A Real Time Artificial Intelligence Assisted Pneumonia Detection for
-Improved Clinical Diagnostic Decision Making] (https://doi.org/10.31645/jisrc.26.24.1.6) 
+Improved Clinical Diagnostic Decision Making](https://doi.org/10.31645/jisrc.26.24.1.6) 
 
 Technical Articles on medium: (written out of personal interest)  
 [Artificial Intelligence (AI)](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
