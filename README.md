@@ -1,5 +1,5 @@
 # Software Engineer
-Hi, I am a software engineer with a background in deep learning, computer vision and medical imaging, please feel free to connect with me anytime!  
+Hi, I am a software engineer with a background in deep learning, computer vision and medical imaging. Feel free to connect with me anytime!  
 [📧](mailto:shahlizauddin@gmail.com)&nbsp;&nbsp;&nbsp;[🔗](http://www.linkedin.com/in/shahliza-falak)&nbsp;&nbsp;&nbsp;[📝](https://medium.com/@shahlizauddin)   
 
 ### 🔎 Current Research Focus  
@@ -58,12 +58,6 @@ Project: WordPress WooCommerce Data Migration
 - Certificate in Essentials of AI Learning Frameworks & Advanced Models – UniAthena, CIQ (UK) (2025)  
 - Certificate in Resilience – Nestlé E-learning Program (2025)  
 - Certificate in Basics of Machine Learning – UniAthena, CIQ (UK) (2025)
-
- ✎ᝰ. Language Certificates
-- Certificate of Completion - First Step Korean course, offered by Yonsei University through Coursera (2025)
-- Korean Language Course - National University of Modern Languages (2026)
-- Korean Course 1A - King Sejong Institute (2026)
-- IELTS Certificate - Overall band 6.0 (Academic) – IDP Education (2026)
 
 ### 🏃🏻Sports
 - Sports day - Ziauddin School & College (2026)
