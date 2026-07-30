@@ -14,8 +14,12 @@ Thesis: “Pneumonia Detection using Deep Learning"
 📍 Karachi, Pakistan
 
 ### 💼 Work Experience
+Online E-commerce Store                                            (March 2026 - Present)
+Web Developer
+📍 Karachi, Pakistan
+
 Ziauddin School & College  
-Lab In-Charge - Secondary Computer Teacher                          (Aug - Present)  
+Lab In-Charge - Secondary Computer Teacher                          (Aug 2025 - Feb 2026)  
 📍 Karachi, Pakistan
 
 ### 💻 Project Experience
@@ -77,7 +81,7 @@ Project: WordPress WooCommerce Data Migration
  
 ### 📚 Publications 
 [Optimizing Pneumonia Diagnosis: A Real Time Artificial Intelligence Assisted Pneumonia Detection for
-Improved Clinical Diagnostic Decision Making](https://doi.org/10.31645/jisrc.26.24.1.6) 
+Improved Clinical Diagnostic Decision Making]([https://doi.org/10.31645/jisrc.26.24.1.6](https://search.crossref.org/search/works?q=10.31645%2Fjisrc.26.24.1.6&from_ui=yes&sort=year)) 
 
 Technical Articles on medium: (written out of personal interest)  
 [Artificial Intelligence (AI)](https://medium.com/@shahlizauddin/artificial-intelligence-ai-2dbb4a21fd6d)  
