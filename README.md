@@ -14,13 +14,15 @@ Thesis: “Pneumonia Detection using Deep Learning"
 📍 Karachi, Pakistan
 
 ### 💼 Work Experience
-Online E-commerce Store                                            (March 2026 - Present)
-Web Developer
+Online E-commerce Store                                           
+Web Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   (March 2026 - Present)
+<br>
 📍 Karachi, Pakistan
 
-Ziauddin School & College  
-Lab In-Charge - Secondary Computer Teacher                          (Aug 2025 - Feb 2026)  
-📍 Karachi, Pakistan
+Ziauddin School & College 
+<br>
+Secondary Computer Teacher &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Aug 2025 - Feb 2026)  
+ 📍 Karachi, Pakistan
 
 ### 💻 Project Experience
 Project: Pneumonia Detection using Deep Learning
